@@ -1,0 +1,8 @@
+[project]
+name = "usc_09201_11"
+version = "0.1.0"
+description = "林业灵活用工核验服务基础"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
